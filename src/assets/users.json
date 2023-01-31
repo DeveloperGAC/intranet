@@ -1,0 +1,21 @@
+{
+  "Users":
+  [
+    {
+      "email": "a@a.com",
+      "pass": "123",
+      "rol": "admin"
+    },
+    {
+      "email": "b@b.com",
+      "pass": "123",
+      "rol": "user"
+    },
+    {
+      "email": "c@c.com",
+      "pass": "123",
+      "rol": "user"
+    }
+  ]
+
+}
